@@ -97,7 +97,7 @@ Some of the main insights from the analysis and modelling are:
 uk-road-accident-analysis-2020/
 │
 ├── notebooks/
-│   └── Applied AI Assessment code.ipynb      # Full code and analysis
+│   └── accident_analysis.ipynb               # Full code and analysis
 │
 |
 │
